@@ -14,7 +14,8 @@ Before running the script, make sure you have the following setup on your Window
    * Go to **Developer Options** and enable **USB Debugging** (Xiaomi/Oppo users must also enable *USB Debugging - Security Settings*).
 3. **Connect via USB:** Ensure your phone is connected to your laptop and running `adb devices` shows your authorized device.
 4. Make csv file of name vouchers.csv and keep the codes you want to add in there.
-5. Keep in mind per day only 10 gvs can be added 
+5. Keep in mind per day only 10 gvs can be added
+6. Dont forget to add your coordinates as every phone coordinates will be different.
 ---
 
 ## 📂 Repository Structure
